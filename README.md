@@ -39,7 +39,7 @@ This project is a web-based visualizer 🌐 designed to help you understand and 
 1.  **Clone the repository 📥:**
 
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone git@github.com:Phani2603/AlgoViz.git
     ```
 
 2.  **Navigate to the project directory 📂:**
